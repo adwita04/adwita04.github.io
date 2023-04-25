@@ -4,7 +4,7 @@
 
 Hi, My Name is __*Adwita Deshpande*__ and welcome to my profile page!
 
-![photo](https://www.freepik.com/free-vector/it-takes-two-tango-idiom_2956131.htm#query=cartoon%20face&position=4&from_view=keyword&track=ais)
+[photo](https://www.freepik.com/free-vector/it-takes-two-tango-idiom_2956131.htm#query=cartoon%20face&position=4&from_view=keyword&track=ais)
 
 I am a student here at ***Indian Institute of Technolgy, Goa*** studying *Mathematics and Computing*.
 I am very interestd in coding and design. As a student here at an IIT, I am grateful for all the oppurtunities I recieve and would like to grasp all of them.
